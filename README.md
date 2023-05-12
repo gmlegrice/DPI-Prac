@@ -10,6 +10,7 @@
 <body>
     <div class="container">
         <div class="banner">
+      <img src="path/to/your/local/image.jpg" alt="Banner Image">
         <div class="banner-text">
             <h2>NYC CONNECT</h2>
             <h1>FIND ALL RESOURCES THAT YOU NEED IN YOUR COMMUNITY</h1>
